@@ -6,17 +6,13 @@ An interactive and comprehensive healthcare analytics dashboard built to monitor
 
 ## 📊 Dashboard Overview
 
-<p align="center">
-  <img src="dashboard.png" alt="Dashboard Preview" width="100%">
-</p>
+![Dashboard Preview](dashboard.png)
 
 ---
 
 ## 💡 Key Insights & Recommendations
 
-<p align="center">
-  <img src="insights.jpg" alt="Insights and Recommendations" width="100%">
-</p>
+![Insights and Recommendations](insights.jpg)
 
 ---
 
