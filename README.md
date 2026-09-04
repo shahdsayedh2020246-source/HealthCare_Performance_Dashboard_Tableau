@@ -1,4 +1,4 @@
-# 🏥 HealthCare Performance Dashboard
+# 🏥 HealthCare Performance Dashboard (Tableau)
 
 An interactive and comprehensive healthcare analytics dashboard built to monitor hospital operational efficiency, patient demographics, insurance billing distributions, and length of stay trends.
 
@@ -6,13 +6,17 @@ An interactive and comprehensive healthcare analytics dashboard built to monitor
 
 ## 📊 Dashboard Overview
 
-![Dashboard Preview](dashboard.png)
+<p align="center">
+  <img src="dashboard.png" alt="Dashboard Preview" width="100%">
+</p>
 
 ---
 
 ## 💡 Key Insights & Recommendations
 
-![Insights and Recommendations](insights.jpg)
+<p align="center">
+  <img src="insights.jpg" alt="Insights and Recommendations" width="100%">
+</p>
 
 ---
 
