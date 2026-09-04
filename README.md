@@ -4,10 +4,10 @@ An interactive and comprehensive healthcare analytics dashboard built to monitor
 
 ---
 
-## 📊 Dashboard Overview
+## 📊 Dashboard Preview
 
 <p align="center">
-  <img src="dashboard.png" alt="Dashboard Preview" width="100%">
+  <img src="Dashboard.png" alt="HealthCare Performance Dashboard" width="100%">
 </p>
 
 ---
@@ -15,14 +15,14 @@ An interactive and comprehensive healthcare analytics dashboard built to monitor
 ## 💡 Key Insights & Recommendations
 
 <p align="center">
-  <img src="insights.jpg" alt="Insights and Recommendations" width="100%">
+  <img src="Isights & Recommendations.jpg" alt="Insights and Recommendations" width="100%">
 </p>
 
 ---
 
 ## 📁 Repository Files
-- **`dashboard.png`**: Visual overview of the primary performance dashboard.
-- **`insights.jpg`**: Detailed breakdown of analytical insights and operational recommendations.
+- **`Dashboard.png`**: Visual overview of the primary performance dashboard.
+- **`Isights & Recommendations.jpg`**: Detailed breakdown of analytical insights and operational recommendations.
 - **`healthcare_tableau.twbx`**: The Tableau packaged workbook file.
 - **`healthcare_dataset.csv`**: The raw dataset used for analysis.
 
