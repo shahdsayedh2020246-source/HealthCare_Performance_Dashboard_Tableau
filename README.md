@@ -15,7 +15,7 @@ An interactive and comprehensive healthcare analytics dashboard built to monitor
 ## 💡 Key Insights & Recommendations
 
 <p align="center">
-  <img src="Isights & Recommendations.jpg" alt="Insights and Recommendations" width="100%">
+  <img src="Isights & Recommendations.png" alt="Insights and Recommendations" width="100%">
 </p>
 
 ---
