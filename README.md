@@ -12,9 +12,18 @@ An interactive and comprehensive healthcare analytics dashboard built to monitor
 
 ---
 
-## 💡 Insights & Recommendations
+## 💡 Key Insights & Recommendations
+
 <p align="center">
   <img src="Isights & Recommendations.jpg" alt="Insights and Recommendations" width="100%">
+</p>
+
+---
+
+## 💻 Repository View
+
+<p align="center">
+  <img src="Screenshot (535)_2.jpg" alt="GitHub Repository View" width="100%">
 </p>
 
 ---
